@@ -1,5 +1,4 @@
-# TEST1
-SUCCESS!
+# SUCCESS!
 If you can see this text, then you have scuccessfully logged into the page with Python. 
 Well done!
 
